@@ -160,10 +160,10 @@ public class printditals {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String name="raj muley";
-		String address="Subhasg road beed-431122";
-		String bloodgroup="o+";
-		long phone=9405941894l;
+		String name="rohan magar";
+		String address="ta & dist. Dharashiv";
+		String bloodgroup="B+";
+		long phone= 8767189551;
 		System.out.println(name);
 		System.out.println(address);
 		System.out.println(bloodgroup);
@@ -248,7 +248,7 @@ public class Square {
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Q9]Write a java program which iniƟalizes a variable name and greets with "Hello , raj have a good 
+Q9]Write a java program which iniƟalizes a variable name and greets with "Hello , rohan have a good 
 day"
 
 --->
@@ -260,7 +260,7 @@ public class addstring {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String a="raj";
+		String a="rohan";
 		
 		System.out.println("Hello " + a+" have a good day");	
 	}
